@@ -1,0 +1,20 @@
+.navigācijas-poga {
+    text-align: left;
+    font: normal normal bold 30px/34px Arial;
+    color: #0C0707;
+}
+
+#galvene {
+    background: transparent url('img/WhatsApp Image 2020-10-23 at 23.07.26.png') 0% 0% no-repeat padding-box;
+    top: 0px;
+left: 0px;
+width: 1140px;
+height: 414px;
+}
+
+#h1 {
+    top: 696px;
+left: 341px;
+width: 458px;
+height: 51px;
+}
